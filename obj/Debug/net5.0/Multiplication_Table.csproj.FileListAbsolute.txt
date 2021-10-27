@@ -1,0 +1,16 @@
+D:\.Net\Exercise\S04\Multiplication_Table\bin\Debug\net5.0\Multiplication_Table.exe
+d:\.Net\Exercise\S04\Multiplication_Table\bin\Debug\net5.0\Multiplication_Table.deps.json
+d:\.Net\Exercise\S04\Multiplication_Table\bin\Debug\net5.0\Multiplication_Table.runtimeconfig.json
+d:\.Net\Exercise\S04\Multiplication_Table\bin\Debug\net5.0\Multiplication_Table.runtimeconfig.dev.json
+D:\.Net\Exercise\S04\Multiplication_Table\bin\Debug\net5.0\Multiplication_Table.dll
+d:\.Net\Exercise\S04\Multiplication_Table\bin\Debug\net5.0\ref\Multiplication_Table.dll
+D:\.Net\Exercise\S04\Multiplication_Table\bin\Debug\net5.0\Multiplication_Table.pdb
+D:\.Net\Exercise\S04\Multiplication_Table\obj\Debug\net5.0\Multiplication_Table.csproj.AssemblyReference.cache
+D:\.Net\Exercise\S04\Multiplication_Table\obj\Debug\net5.0\Multiplication_Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Exercise\S04\Multiplication_Table\obj\Debug\net5.0\Multiplication_Table.AssemblyInfoInputs.cache
+D:\.Net\Exercise\S04\Multiplication_Table\obj\Debug\net5.0\Multiplication_Table.AssemblyInfo.cs
+D:\.Net\Exercise\S04\Multiplication_Table\obj\Debug\net5.0\Multiplication_Table.csproj.CoreCompileInputs.cache
+D:\.Net\Exercise\S04\Multiplication_Table\obj\Debug\net5.0\Multiplication_Table.dll
+D:\.Net\Exercise\S04\Multiplication_Table\obj\Debug\net5.0\ref\Multiplication_Table.dll
+D:\.Net\Exercise\S04\Multiplication_Table\obj\Debug\net5.0\Multiplication_Table.pdb
+d:\.Net\Exercise\S04\Multiplication_Table\obj\Debug\net5.0\Multiplication_Table.genruntimeconfig.cache
